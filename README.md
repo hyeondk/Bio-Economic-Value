@@ -1,7 +1,7 @@
 # **Bio-Economic-Value**
 * Type : Research Project
 * Title : A Study on the Economic Value of Microorganisms and Natural Resources
-* Periods : 2023.07.01. ~ 2024.02.29.
+* Periods : 2023.07.01. ~ 2024.01.31.
 
 ## **Research Purpose**
 * Environmental Analysis of Microorganisms and Natural Resources
