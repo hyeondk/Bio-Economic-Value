@@ -4,17 +4,16 @@
 * Periods : 2023.07.01. ~ 2024.02.29.
 
 ## **Research Purpose**
-* Improving the economic value of microorganisms and natural products in possession
-1. Environmental Analysis of Microorganisms and Natural Resources
-2. Understanding the actual situation for establishing policies to promote the utilization of physical materials and characteristic information
-3. User segmentation analysis to identify user preference characteristics and to prepare efficient and effective management measures for the preparation of research and industrial utilization of resources
-4. Estimate the economic value of resources by applying the economic valuation methodology
+* Environmental Analysis of Microorganisms and Natural Resources
+* Economic Valuation
+* Identify researcher preferences for promoting utilization
 
 ## **My Analysis Contents**
 * Establishing a framework and estimation model for value estimation
-1. Estimate value through Google Form Questionnaire creation and response collection
-2. Orthogonal design of resource properties and level factors
-3. Estimate and predict economic value through OLS analysis after pre-processing of collected survey response data
+1. Complete the Google Form questionnaire and collect responses (Preliminary Survey)
+2. Orthogonal Design for Resource Properties and Level Factors
+3. Estimating and predicting economic value through pre-processing of collected survey response data and OLS analysis
+4. Application of Hierarchical Bayesian Methodology for user segmentation
 
 ## **Notes**
 1. Data contains personal information and cannot be disclosed.
